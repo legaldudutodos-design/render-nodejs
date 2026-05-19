@@ -9,8 +9,8 @@ http.createServer((req, res) => {
 
 // 2. Initialize the Minecraft Bot
 const bot = mineflayer.createBot({
-  host: 'SURVIVALdudu.aternos.me', // e.g. 'my-server.aternos.me'
-  port: 14119,             // Default port
+  host: 'seller-answers.gl.joinmc.link', // e.g. 'my-server.aternos.me'
+  port: 25565,             // Default port
   username: 'RenderBot',   // Bot's name
   version: '1.20.1'        // Match your server version
 });
